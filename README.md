@@ -16,7 +16,9 @@ This repository is my playground for exploring algorithms, cryptography, and sma
 - **caesar_cipher.py**  
   Implements the Caesar cipher encryption and decryption technique.  
   - Shift letters by a given key.  
-  - Encode and decode messages.  
+  - Encode and decode messages.
+- **hangman.py**  
+  a simple game of guessing words 
 
 ---
 
